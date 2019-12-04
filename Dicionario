@@ -1,0 +1,4 @@
+# Usando Dicionario.
+Dicionario={'Curso':'Programação em Python'}
+print(Dicionario)
+print(dicionario{'Curso'})
